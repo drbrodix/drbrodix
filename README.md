@@ -3,6 +3,8 @@
 - Currently enrolled in a software dev program
 - Busy most of the time with C++
 - Likes shooting photos and gaming when there's some free time
+- Speaks English, German, and Hungarian
+- Likes using Oxford comma
 
 <!--
 **drbrodix/drbrodix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
