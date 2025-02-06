@@ -1,7 +1,7 @@
 ## Some stuff about me:
 
 - Currently enrolled in a software dev program
-- Busy most of the time with C++
+- Busy most of the time with C/C++
 - Likes shooting photos and gaming when there's some free time
 - Speaks English, German, and Hungarian
 - Likes using Oxford comma
